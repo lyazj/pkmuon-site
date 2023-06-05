@@ -6,7 +6,7 @@
   <link href="https://lyazj.github.io/pkmuon-site/atom.xml" rel="self"/>
   
   <link href="https://lyazj.github.io/pkmuon-site/"/>
-  <updated>2023-06-05T16:56:07.454Z</updated>
+  <updated>2023-06-05T17:26:20.577Z</updated>
   <id>https://lyazj.github.io/pkmuon-site/</id>
   
   <author>
@@ -21,15 +21,16 @@
     <link href="https://lyazj.github.io/pkmuon-site/2023/06/06/blogs/dark-matter-observable/"/>
     <id>https://lyazj.github.io/pkmuon-site/2023/06/06/blogs/dark-matter-observable/</id>
     <published>2023-06-06T00:00:00.000Z</published>
-    <updated>2023-06-05T16:56:07.454Z</updated>
+    <updated>2023-06-05T17:26:20.577Z</updated>
     
-    <content type="html"><![CDATA[<p><a href="dark-matter-observable/dark-matter-observable.pdf">Click here to download the document.</a></p><iframe class="pkmuon-relocation-src pkmuon-article-iframe" _src="dark-matter-observable/dark-matter-observable.pdf" /></iframe>]]></content>
+    <content type="html"><![CDATA[<p><a class="pkmuon-relocation-href" _href=dark-matter-observable/dark-matter-observable.pdf>Click here to download the document.</a></p><iframe class="pkmuon-relocation-src pkmuon-article-iframe" _src="dark-matter-observable/dark-matter-observable.pdf" /></iframe>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;a href=&quot;dark-matter-observable/dark-matter-observable.pdf&quot;&gt;Click here to download the document.&lt;/a&gt;&lt;/p&gt;
-&lt;iframe class=&quot;pkmuon-relocation</summary>
+    <summary type="html">&lt;p&gt;&lt;a class=&quot;pkmuon-relocation-href&quot; _href=dark-matter-observable/dark-matter-observable.pdf&gt;Click here to download the document.&lt;/a&gt;&lt;/p&gt;
+
+&lt;</summary>
       
     
     
