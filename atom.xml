@@ -39,28 +39,6 @@
   </entry>
   
   <entry>
-    <title>A Brief Introduction to PKMUON</title>
-    <link href="https://lyazj.github.io/pkmuon-site/2024/04/23/blogs/introduction/"/>
-    <id>https://lyazj.github.io/pkmuon-site/2024/04/23/blogs/introduction/</id>
-    <published>2024-04-23T09:08:41.261Z</published>
-    <updated>2024-04-23T09:08:41.261Z</updated>
-    
-    <content type="html"><![CDATA[<p><strong>P</strong>robing sub-GeV dar<strong>K</strong> <strong>M</strong>atter <strong>U</strong>sing freely flying Lept<strong>ON</strong>s (<strong>PKMUON</strong>), a new method to detect sub-GeV dark matter at or below the MeV scale, through their scatterings from freely flying leptons and the resulting kinematic shifts. Specially, such an experiment can detect dark matter interacting solely with muons.</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;&lt;strong&gt;P&lt;/strong&gt;robing sub-GeV dar&lt;strong&gt;K&lt;/strong&gt; &lt;strong&gt;M&lt;/strong&gt;atter &lt;strong&gt;U&lt;/strong&gt;sing freely flying Lept&lt;strong&gt;ON&lt;/stron</summary>
-      
-    
-    
-    
-    <category term="blogs" scheme="https://lyazj.github.io/pkmuon-site/categories/blogs/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>[Report] A proposed PKU-Muon experiment for muon tomography and dark matter search</title>
     <link href="https://lyazj.github.io/pkmuon-site/2024/04/23/blogs/pkmuon-mip2024/"/>
     <id>https://lyazj.github.io/pkmuon-site/2024/04/23/blogs/pkmuon-mip2024/</id>
@@ -104,6 +82,28 @@
     
     
     <category term="publications" scheme="https://lyazj.github.io/pkmuon-site/categories/publications/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>A Brief Introduction to PKMUON</title>
+    <link href="https://lyazj.github.io/pkmuon-site/2023/01/01/blogs/introduction/"/>
+    <id>https://lyazj.github.io/pkmuon-site/2023/01/01/blogs/introduction/</id>
+    <published>2023-01-01T00:00:00.000Z</published>
+    <updated>2024-04-24T08:45:06.802Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>P</strong>robing sub-GeV dar<strong>K</strong> <strong>M</strong>atter <strong>U</strong>sing freely flying Lept<strong>ON</strong>s (<strong>PKMUON</strong>), a new method to detect sub-GeV dark matter at or below the MeV scale, through their scatterings from freely flying leptons and the resulting kinematic shifts. Specially, such an experiment can detect dark matter interacting solely with muons.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;strong&gt;P&lt;/strong&gt;robing sub-GeV dar&lt;strong&gt;K&lt;/strong&gt; &lt;strong&gt;M&lt;/strong&gt;atter &lt;strong&gt;U&lt;/strong&gt;sing freely flying Lept&lt;strong&gt;ON&lt;/stron</summary>
+      
+    
+    
+    
+    <category term="blogs" scheme="https://lyazj.github.io/pkmuon-site/categories/blogs/"/>
     
     
   </entry>
