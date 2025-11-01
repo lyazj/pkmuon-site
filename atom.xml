@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>PKMUON Lab</title>
+  
+  
+  <link href="https://lyazj.github.io/pkmuon-site/atom.xml" rel="self"/>
+  
+  <link href="https://lyazj.github.io/pkmuon-site/"/>
+  <updated>2025-11-01T02:47:38.230Z</updated>
+  <id>https://lyazj.github.io/pkmuon-site/</id>
+  
+  <author>
+    <name>The PKMUON collaboration, PKU</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Group Activities</title>
+    <link href="https://lyazj.github.io/pkmuon-site/2024/07/29/activities/activities/"/>
+    <id>https://lyazj.github.io/pkmuon-site/2024/07/29/activities/activities/</id>
+    <published>2024-07-29T00:00:00.000Z</published>
+    <updated>2025-11-01T02:47:38.230Z</updated>
+    
+    <content type="html"><![CDATA[<table><thead><tr><th>Time</th><th>Event</th><th>Participant</th><th>Information</th></tr></thead><tbody><tr><td>11.3-6, 2023</td><td>MELODY 2023</td><td>Qiang Li</td><td><a href="https://indico.ihep.ac.cn/event/20601/timetable/?view=standard#76-spectrometer-design-of-melo">https://indico.ihep.ac.cn/event/20601/timetable/?view=standard#76-spectrometer-design-of-melo</a></td></tr><tr><td>4.19-22, 2024</td><td>MIP2024</td><td>Xudong Yu</td><td><a href="https://indico.cern.ch/event/1356341/timetable/?view=standard#19-a-proposed-pku-muon-experim">https://indico.cern.ch/event/1356341/timetable/?view=standard#19-a-proposed-pku-muon-experim</a></td></tr><tr><td>5.7-11, 2024</td><td>Conference on frontiers of underground and space particle physics and cosmophysics 2024</td><td>Qiang Li,<br />Qite Li</td><td>1. <a href="https://indico-cdex.ep.tsinghua.edu.cn/event/162/timetable/?view=standard#15-a-proposed-pku-muon-experim">https://indico-cdex.ep.tsinghua.edu.cn/event/162/timetable/?view=standard#15-a-proposed-pku-muon-experim</a><br />2. <a href="https://indico-cdex.ep.tsinghua.edu.cn/event/162/timetable/?view=standard#34-rpc">https://indico-cdex.ep.tsinghua.edu.cn/event/162/timetable/?view=standard#34-rpc</a></td></tr><tr><td>5.16, 2024</td><td>Probing and Knocking with Muons</td><td>Qiang Li</td><td><a href="https://indico-tdli.sjtu.edu.cn/event/2425/">https://indico-tdli.sjtu.edu.cn/event/2425/</a></td></tr><tr><td>7.17-24, 2024</td><td>ICHEP2024 (Prague)</td><td>Qiang Li (poster)</td><td><a href="https://indico.cern.ch/event/1291157/page/35069-poster-board-identifications">https://indico.cern.ch/event/1291157/page/35069-poster-board-identifications</a></td></tr><tr><td>7.15-17, 2024</td><td>NED&amp;CAGD2024</td><td>Cheng-en Liu</td><td><a href="https://indico.ihep.ac.cn/event/22017/timetable/?view=standard#166-rpc">https://indico.ihep.ac.cn/event/22017/timetable/?view=standard#166-rpc</a></td></tr><tr><td>8.12-18, 2024</td><td>China HEP (Qingdao)</td><td>Qiang Li</td><td><a href="https://indico.ihep.ac.cn/event/21331/timetable/?view=standard#422-a-proposed-pku-muon-experi">https://indico.ihep.ac.cn/event/21331/timetable/?view=standard#422-a-proposed-pku-muon-experi</a></td></tr><tr><td>8.23-26, 2024</td><td>第二届惠州大科学装置高精度物理研讨会—暨基于 HIAF 加速器集群的缪子科学与技术研讨会 (中山大学)</td><td>Qite Li</td><td><a href="https://indico.impcas.ac.cn/event/63/timetable/?view=standard#34-pkmu">https://indico.impcas.ac.cn/event/63/timetable/?view=standard#34-pkmu</a></td></tr><tr><td>8.24-27, 2024</td><td>Workshop on Multi-front Exotic phenomena in Particle and Astrophysics</td><td>Leyun Gao</td><td><a href="https://indico.ihep.ac.cn/event/22411/timetable/?view=standard#22-pku-muon-experiment-for-muo">https://indico.ihep.ac.cn/event/22411/timetable/?view=standard#22-pku-muon-experiment-for-muo</a></td></tr><tr><td>9.16-21, 2024</td><td>NuFact2024 (US)</td><td>Qiang Li</td><td><a href="https://indico.fnal.gov/event/63406/timetable/?view=standard#9-probing-and-knocking-with-mu">https://indico.fnal.gov/event/63406/timetable/?view=standard#9-probing-and-knocking-with-mu</a></td></tr><tr><td>11.1-4, 2024</td><td>第三届高能物理理论与实验融合发展研讨会</td><td>Qiang Li</td><td><a href="https://indico.ihep.ac.cn/event/23473/timetable/?view=standard#2-probing-and-knocking-with-mu">https://indico.ihep.ac.cn/event/23473/timetable/?view=standard#2-probing-and-knocking-with-mu</a></td></tr><tr><td>11.11-15, 2024</td><td>The 8th Shanghai Symposium on Particle Physics and Cosmology: Cosmic Neutrinos, Multi-messengers and Innovative Detectors</td><td>Qite Li</td><td><a href="https://indico-tdli.sjtu.edu.cn/event/2360/timetable/?view=standard#9-probing-and-knocking-with-mu">https://indico-tdli.sjtu.edu.cn/event/2360/timetable/?view=standard#9-probing-and-knocking-with-mu</a></td></tr><tr><td>11.13, 2024</td><td>Probing and Knocking with Muons for Dark Matter and others</td><td>Qiang Li</td><td><a href="https://indico.ihep.ac.cn/event/23323/">https://indico.ihep.ac.cn/event/23323/</a></td></tr><tr><td>4.7-10, 2025</td><td>Quantum Observables for Collider Physics 2025</td><td>Alim Ruzi,<br />Leyun Gao</td><td>1. <a href="https://agenda.infn.it/event/44563/timetable/?view=standard#b-42163-drinks-poster-session">https://agenda.infn.it/event/44563/timetable/?view=standard#b-42163-drinks-poster-session</a><br />2. <a href="https://agenda.infn.it/event/44563/timetable/?view=standard#24-testing-bell-inequalities-a">https://agenda.infn.it/event/44563/timetable/?view=standard#24-testing-bell-inequalities-a</a></td></tr><tr><td>4.25, 2025</td><td>PKMu-HFRS Workshop</td><td>Collaborators</td><td><a href="https://indico.ihep.ac.cn/event/25468/">https://indico.ihep.ac.cn/event/25468/</a></td></tr><tr><td>4.25-27, 2025</td><td>Workshop on Quantum Entanglement at the Energy Frontier</td><td>Alim Ruzi,<br />Leyun Gao</td><td>1. <a href="https://indico.ihep.ac.cn/event/24387/timetable/?view=standard#19-news-from-the-quantum-obser">https://indico.ihep.ac.cn/event/24387/timetable/?view=standard#19-news-from-the-quantum-obser</a><br />2. <a href="https://indico.ihep.ac.cn/event/24387/timetable/?view=standard#5-a-first-test-on-spooky-actio">https://indico.ihep.ac.cn/event/24387/timetable/?view=standard#5-a-first-test-on-spooky-actio</a></td></tr><tr><td>5.16-20, 2025</td><td>MIP2025</td><td>Yu Xu,<br />Liangwen Chen,<br />Qiang Li,<br />Jinning Li,<br />Zijian Wang,<br />Leyun Gao,<br />Cheng-en Liu</td><td>1. <a href="https://indico.ihep.ac.cn/event/24109/timetable/?view=standard#48-the-feasibility-study-of-th">https://indico.ihep.ac.cn/event/24109/timetable/?view=standard#48-the-feasibility-study-of-th</a><br />2. <a href="https://indico.ihep.ac.cn/event/24109/timetable/?view=standard#55-pkmu-hfrs-probing-and-knock">https://indico.ihep.ac.cn/event/24109/timetable/?view=standard#55-pkmu-hfrs-probing-and-knock</a><br />3. <a href="https://indico.ihep.ac.cn/event/24109/timetable/?view=standard#51-rpc-scintillator-hybrid-det">https://indico.ihep.ac.cn/event/24109/timetable/?view=standard#51-rpc-scintillator-hybrid-det</a><br />4. <a href="https://indico.ihep.ac.cn/event/24109/timetable/?view=standard#54-search-for-light-dark-secto">https://indico.ihep.ac.cn/event/24109/timetable/?view=standard#54-search-for-light-dark-secto</a><br />5. <a href="https://indico.ihep.ac.cn/event/24109/timetable/?view=standard#44-probing-charged-lepton-flav">https://indico.ihep.ac.cn/event/24109/timetable/?view=standard#44-probing-charged-lepton-flav</a><br />6. <a href="https://indico.ihep.ac.cn/event/24109/timetable/?view=standard#45-muonphilic-dark-matter-sear">https://indico.ihep.ac.cn/event/24109/timetable/?view=standard#45-muonphilic-dark-matter-sear</a></td></tr><tr><td>5.26-30, 2025</td><td>Muon4Future 2025</td><td>Leyun Gao,<br />Zijian Wang</td><td>1. <a href="https://agenda.infn.it/event/42349/timetable/?view=standard#49-probing-charged-lepton-flav">https://agenda.infn.it/event/42349/timetable/?view=standard#49-probing-charged-lepton-flav</a><br />2. <a href="https://agenda.infn.it/event/42349/timetable/?view=standard#57-search-for-light-dark-secto">https://agenda.infn.it/event/42349/timetable/?view=standard#57-search-for-light-dark-secto</a></td></tr></tbody></table>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Time&lt;/th&gt;
+&lt;th&gt;Event&lt;/th&gt;
+&lt;th&gt;Participant&lt;/th&gt;
+&lt;th&gt;Information&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;11.3-6, 2023&lt;/td&gt;</summary>
+      
+    
+    
+    
+    <category term="activities" scheme="https://lyazj.github.io/pkmuon-site/categories/activities/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>[News] MIP 2024 held at School of Physics, Peking University</title>
+    <link href="https://lyazj.github.io/pkmuon-site/2024/04/24/blogs/mip2024/"/>
+    <id>https://lyazj.github.io/pkmuon-site/2024/04/24/blogs/mip2024/</id>
+    <published>2024-04-24T00:00:00.000Z</published>
+    <updated>2025-11-01T02:47:38.230Z</updated>
+    
+    <content type="html"><![CDATA[<p>From April 19 to 22, 2024, the Workshop on High-Intensity and High-Precision Frontier Muon Physics (MIP 2024) was held at Siyuan Multifunctional Hall, School of Physics, Peking University. The conference chairs were Professor Qiang Li, Senior Engineer Qite Li, and Researcher Chen Zhou from School of Physics, Peking University. More than 180 participants from over 40 domestic and international institutions attended the conference. The topics of the workshop included research on future high-intensity accelerators, muon sources, precise measurements of the fundamental properties of muons, searches for rare muon decay processes, muon application technology, muon theory, future experiments, and muon colliders.</p><div style="text-align:center"><img class="pkmuon-relocation-src" style="width:40%;display:inline-block" _src="mip2024/scene-1.png" />&emsp;<img class="pkmuon-relocation-src" style="width:40%;display:inline-block" _src="mip2024/scene-2.png" /></div><p>The conference opened on the morning of April 20th. Academician Yuanning Gao, Dean of the School of Physics at Peking University, delivered a welcome speech. Subsequently, experts and scholars from China, Japan, Thailand, the United Kingdom, Italy, Switzerland, and other countries gave 39 oral presentations and 26 poster presentations. At the closing ceremony, Professor Yajun Mao from School of Physics, Peking University and Professor Jingyu Tang from the University of Science and Technology of China presented awards to the winners of the poster competition and delivered closing remarks.</p><p>This conference was jointly organized by Peking University, Shanghai Jiao Tong University, University of Science and Technology of China, Institute of High Energy Physics of the Chinese Academy of Sciences, Institute of Theoretical Physics of the Chinese Academy of Sciences, Institute of Modern Physics of the Chinese Academy of Sciences, Nanjing University, Guangdong Provincial Laboratory of Advanced Energy Science and Technology, and Sun Yat-sen University. It was co-organized by the State Key Laboratory of Nuclear Physics and Technology at Peking University and supported by the Southern Nuclear Science Theoretical Research Center, the High Energy Physics Center of Peking University, and the State Key Laboratory of Nuclear Physics and Technology at Peking University. The conference announced that the workshops for the next two years will be hosted by Hunan University and the Institute of Modern Physics of the Chinese Academy of Sciences, respectively. MIP is the most important series of conferences in the field of muon physics in China, aimed at promoting and strengthening the deep application and development of muon technology and devices in various related fields.</p><p>See more details on <a href="https://indico.cern.ch/event/1356341/">https://indico.cern.ch/event/1356341/</a> and <a href="https://mp.weixin.qq.com/s/CjX3pG94b7KJcJftXttS0Q">https://mp.weixin.qq.com/s/CjX3pG94b7KJcJftXttS0Q</a>.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;From April 19 to 22, 2024, the Workshop on High-Intensity and High-Precision Frontier Muon Physics (MIP 2024) was held at Siyuan Multifun</summary>
+      
+    
+    
+    
+    <category term="blogs" scheme="https://lyazj.github.io/pkmuon-site/categories/blogs/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>[Report] A proposed PKU-Muon experiment for muon tomography and dark matter search</title>
+    <link href="https://lyazj.github.io/pkmuon-site/2024/04/23/blogs/pkmuon-mip2024/"/>
+    <id>https://lyazj.github.io/pkmuon-site/2024/04/23/blogs/pkmuon-mip2024/</id>
+    <published>2024-04-23T00:00:00.000Z</published>
+    <updated>2025-11-01T02:47:38.242Z</updated>
+    
+    <content type="html"><![CDATA[<p><a class="pkmuon-relocation-href" _href="pkmuon-mip2024/pkmuon-mip2024.pdf">Click here to download the document.</a></p><iframe class="pkmuon-relocation-src pkmuon-article-iframe" _src="pkmuon-mip2024/pkmuon-mip2024.pdf"></iframe>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;a class=&quot;pkmuon-relocation-href&quot; _href=&quot;pkmuon-mip2024/pkmuon-mip2024.pdf&quot;&gt;Click here to download the document.&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe class=&quot;</summary>
+      
+    
+    
+    
+    <category term="blogs" scheme="https://lyazj.github.io/pkmuon-site/categories/blogs/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>[arXiv:2303.18117] Probing darK Matter Using free leptONs: PKMUON</title>
+    <link href="https://lyazj.github.io/pkmuon-site/2023/03/31/publications/pkmuon/"/>
+    <id>https://lyazj.github.io/pkmuon-site/2023/03/31/publications/pkmuon/</id>
+    <published>2023-03-31T00:00:00.000Z</published>
+    <updated>2025-11-01T02:47:38.360Z</updated>
+    
+    <content type="html"><![CDATA[<img class="pkmuon-relocation-src pkmuon-article-figure" _src="pkmuon/Diagrams_MMM.jpg" /><p>We propose a new method to detect sub-GeV dark matter, through their scatterings from free leptons and the resulting kinematic shifts. Specially, such an experiment can detect dark matter interacting solely with muons. The experiment proposed here is to directly probe muon-philic dark matter, in a model-independent way. Its complementarity with the muon on target proposal, is similar to, e.g. XENON&#x2F;PandaX and ATLAS&#x2F;CMS on dark matter searches. Moreover, our proposal can work better for relatively heavy dark matter such as in the sub-GeV region. We start with a small device of a size around 0.1 to 1 meter, using atmospheric muons to set up a prototype. Within only one year of operation, the sensitivity on cross section of dark matter scattering with muons can already reach $\sigma_D\sim 10^{-19 (-20,\ -18)}\rm{cm}^{2}$ for a dark mater $\rm{M_D}&#x3D;100\ (10,\ 1000)$ MeV. We can then interface the device with a high intensity muon beam of $10^{12}$&#x2F;bunch. Within one year, the sensitivity can reach $\sigma_D\sim 10^{-27 (-28,\ -26)}\rm{cm}^{2}$ for $\rm{M_D}&#x3D;100\ (10,\ 1000)$ MeV. <a href="https://arxiv.org/abs/2303.18117">Click here</a> to read more.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;img class=&quot;pkmuon-relocation-src pkmuon-article-figure&quot; _src=&quot;pkmuon/Diagrams_MMM.jpg&quot; /&gt;
+
+&lt;p&gt;We propose a new method to detect sub-GeV dar</summary>
+      
+    
+    
+    
+    <category term="publications" scheme="https://lyazj.github.io/pkmuon-site/categories/publications/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>A Brief Introduction to PKMUON</title>
+    <link href="https://lyazj.github.io/pkmuon-site/2023/01/01/blogs/introduction/"/>
+    <id>https://lyazj.github.io/pkmuon-site/2023/01/01/blogs/introduction/</id>
+    <published>2023-01-01T00:00:00.000Z</published>
+    <updated>2025-11-01T02:47:38.230Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>P</strong>robing sub-GeV dar<strong>K</strong> <strong>M</strong>atter <strong>U</strong>sing freely flying Lept<strong>ON</strong>s (<strong>PKMUON</strong>), a new method to detect sub-GeV dark matter at or below the MeV scale, through their scatterings from freely flying leptons and the resulting kinematic shifts. Specially, such an experiment can detect dark matter interacting solely with muons.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;strong&gt;P&lt;/strong&gt;robing sub-GeV dar&lt;strong&gt;K&lt;/strong&gt; &lt;strong&gt;M&lt;/strong&gt;atter &lt;strong&gt;U&lt;/strong&gt;sing freely flying Lept&lt;strong&gt;ON&lt;/stron</summary>
+      
+    
+    
+    
+    <category term="blogs" scheme="https://lyazj.github.io/pkmuon-site/categories/blogs/"/>
+    
+    
+  </entry>
+  
+</feed>
